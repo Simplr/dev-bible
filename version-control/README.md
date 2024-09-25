@@ -14,6 +14,10 @@ Commandments
 	-	Tagging commits by their "category" is a team effort. If your team can't agree on a convention, don't use one.
 	-	Examples for tagging can be found at the [tagging section](#tagging)
 -	If you are using a ticketing system, always, when applicable, include the ticket number in the commit message
+-	Commit often, push sparingly.
+	-	Committing often makes you split your workload into manageable chunks, and makes it easier to roll back changes.
+	-	It's easier to navigate functioning commits than commenting/uncommenting code and seeing what works.
+	-	Use WIP (Work-In-Progress) commits to save your work, but when merging, rebase those comments so they don't leave a mark in history
 
 ### Tagging
 
