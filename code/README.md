@@ -24,3 +24,10 @@ Commandments
 
 	-	No need to make a ticket out of it, or just let someone else do it.
 	-	The so called "boyscout rule": Leave the code in a better shape when you leave, than it was when you entered it.
+
+- 	Don't strive to write your code right the first time
+	- 	Good code usually required you to write it 3-4 times.
+ 		- You write the code so that it runs
+   		- You write the code so that it does the correct thing
+     		- You write the code so that it's maintainable
+       		- You write the code so that it's performant
